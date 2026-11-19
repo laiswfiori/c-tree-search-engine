@@ -1,0 +1,11 @@
+# exclui tudo compilado
+obj/*
+trabalho
+
+# exclui a pasta dos datasets usados
+datasets/*
+
+# exclui consultas e resultados 
+consultas/*
+resultados/*
+*.csv
